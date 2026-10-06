@@ -2,14 +2,14 @@
 
 Aplicativo para Windows com overlays de Dead by Daylight: Timer 1v1, WinStreak, Confronto e Crosshair.
 
-Esta versão beta está disponível para testes. Baixe o executável na seção **Releases**, feche qualquer versão anterior e abra o arquivo `.exe`.
+Esta versão beta está disponível para testes. Baixe **DBD-Overlay-Studio-Beta-2.1.19-Windows-x64-Setup.exe** na seção **Releases**, feche qualquer versão anterior e execute o instalador. Após a instalação, abra **DBD Overlay Studio** pelo menu Iniciar.
 
 [Baixar a Beta 2.1.19](https://github.com/jumperjjj/DBD-Overlay-Studio-Beta/releases/tag/v2.1.19-beta.1)
 
 ## Requisitos
 
 - Windows x64.
-- Microsoft Edge WebView2 Runtime disponível no Windows.
+- Microsoft Edge WebView2 Runtime. O instalador verifica se ele está disponível e baixa o componente se necessário (precisa de internet nesse caso).
 - Não é necessário instalar Node.js, Rust ou Electron.
 
 ## Como testar
