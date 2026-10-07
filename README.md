@@ -2,13 +2,13 @@
 
 Aplicativo para Windows com overlays de Dead by Daylight: Timer 1v1, WinStreak, Confronto e Crosshair.
 
-Esta versão beta está disponível para testes. Baixe **DBD-Overlay-Studio-Beta-2.1.20-Windows-x64-Setup.exe** na seção **Releases**, feche qualquer versão anterior e execute o instalador. Após a instalação, abra **DBD Overlay Studio** pelo menu Iniciar.
+Esta versão beta está disponível para testes. Baixe **DBD-Overlay-Studio-Beta-2.1.24-Windows-x64-Setup.exe** na seção **Releases**, feche qualquer versão anterior e execute o instalador. Após a instalação, abra **DBD Overlay Studio** pelo menu Iniciar.
 
-[Baixar a Beta 2.1.20](https://github.com/jumperjjj/DBD-Overlay-Studio-Beta/releases/tag/v2.1.20-beta.1)
+[Baixar a Beta 2.1.24](https://github.com/jumperjjj/DBD-Overlay-Studio-Beta/releases/tag/v2.1.24-beta.1)
 
 [Site e demonstrações](https://dbd-overlay-studio.pages.dev/)
 
-Instalações novas começam com destaque amarelo em todos os módulos, PLAYER 1 / PLAYER 2 no Timer e TIME A / TIME B no Confronto. A beta 2.1.20 aproxima a foto do Killer no WinStreak Minimal e mantém as escolhas já salvas.
+Instalações novas começam com destaque amarelo em todos os módulos, PLAYER 1 / PLAYER 2 no Timer e TIME A / TIME B no Confronto. A beta 2.1.24 melhora a leitura do WinStreak de Killer e Survivor, centraliza o RECORD e deixa Glass, Split e Premium mais compactos. As escolhas já salvas são mantidas.
 
 ## Requisitos
 
@@ -40,3 +40,4 @@ Abra uma **Issue** descrevendo o problema, a versão do aplicativo e os passos p
 A versão está em desenvolvimento. A interação sobre o jogo e os métodos de captura do OBS podem variar conforme o ambiente; teste também em janela sem bordas.
 
 Este repositório disponibiliza os executáveis beta e informações de uso. O código-fonte não é publicado aqui.
+
