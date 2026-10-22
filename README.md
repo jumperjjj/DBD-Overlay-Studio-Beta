@@ -2,13 +2,13 @@
 
 Aplicativo para Windows com overlays de Dead by Daylight: Timer 1v1, WinStreak, Confronto e Crosshair.
 
-Esta versão beta está disponível para testes. Baixe **DBD-Overlay-Studio-Beta-2.1.24-Windows-x64-Setup.exe** na seção **Releases**, feche qualquer versão anterior e execute o instalador. Após a instalação, abra **DBD Overlay Studio** pelo menu Iniciar.
+Esta versão beta está disponível para testes. Baixe **DBD-Overlay-Studio-Beta-2.2.0-Windows-x64-Setup.exe** na seção **Releases**, feche qualquer versão anterior e execute o instalador. Após a instalação, abra **DBD Overlay Studio** pelo menu Iniciar.
 
-[Baixar a Beta 2.1.24](https://github.com/jumperjjj/DBD-Overlay-Studio-Beta/releases/tag/v2.1.24-beta.1)
+[Baixar diretamente o instalador da Beta 2.2.0](https://github.com/jumperjjj/DBD-Overlay-Studio-Beta/releases/download/v2.2.0-beta.1/DBD-Overlay-Studio-Beta-2.2.0-Windows-x64-Setup.exe)
 
 [Site e demonstrações](https://dbd-overlay-studio.pages.dev/)
 
-Instalações novas começam com destaque amarelo em todos os módulos, PLAYER 1 / PLAYER 2 no Timer e TIME A / TIME B no Confronto. A beta 2.1.24 melhora a leitura do WinStreak de Killer e Survivor, centraliza o RECORD e deixa Glass, Split e Premium mais compactos. As escolhas já salvas são mantidas.
+Instalações novas começam com destaque amarelo em todos os módulos, PLAYER 1 / PLAYER 2 no Timer e TIME A / TIME B no Confronto. A beta 2.2.0 adiciona abas **Personalizar** no Timer, WinStreak e Confronto: tamanhos, cores, glow, contorno, fundos, degradê e retratos opcionais. O Confronto está mais compacto, o efeito de vitória do Timer foi revisado e restaurar as personalizações pede confirmação. As escolhas já salvas são mantidas.
 
 ## Requisitos
 
